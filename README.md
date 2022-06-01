@@ -2,8 +2,7 @@
 
 Calculadora com funções básicas.
 
-![Tela 1](screenshots/example.jfif)
-
+<img src="screenshots/example.jfif" alt="drawing" width="200"/>
 
 ## Gerenciamento de estado
 - MobX
