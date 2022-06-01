@@ -2,7 +2,7 @@
 
 Calculadora com funções básicas.
 
-![Details web](screenshots/example.jfif)
+![Tela 1](screenshots/example.jfif)
 
 
 ## Gerenciamento de estado
